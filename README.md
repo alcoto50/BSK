@@ -2,6 +2,8 @@
 
 This exercise is intended to help practice git branching and merging using the CLI (terminal).
 
+Bryan made this change, hi there!
+
 ## Set-up
 
 Start by selecting **Use this template** for this repository. Then **clone** the repository to your computer.
