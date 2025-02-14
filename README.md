@@ -4,6 +4,7 @@ This exercise is intended to help practice git branching and merging using the C
 
 Bryan made this change, hi there!
 This was a second change made by Bryan, hi!
+Third time is the charm they say...
 
 ## Set-up
 
