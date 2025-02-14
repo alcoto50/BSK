@@ -3,6 +3,7 @@
 This exercise is intended to help practice git branching and merging using the CLI (terminal).
 
 ## Set-up
+In the Readme!!
 
 Start by selecting **Use this template** for this repository. Then **clone** the repository to your computer.
 
