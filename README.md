@@ -7,6 +7,7 @@ This was a second change made by Bryan, hi!
 Third time is the charm they say...
 
 ## Set-up
+In the Readme!!
 
 Start by selecting **Use this template** for this repository. Then **clone** the repository to your computer.
 
